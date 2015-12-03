@@ -2,3 +2,4 @@ git is a version control systerm
 git is free software
 git has a mutable index call stage
 你好
+我很好
